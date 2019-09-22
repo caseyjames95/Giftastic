@@ -1,0 +1,25 @@
+h1 {
+    font-size: 50px;
+    text-align: center;
+}
+
+.searchBar {
+    font-size: 18px;
+    height: 18px;
+}
+
+.search {
+    text-align: center;
+}
+
+.newButtons {
+    margin-top: 5px;
+    text-align: center;
+    margin-bottom: 5px;
+}
+
+.car {
+    margin: 5px;
+    height: 26px;
+    font-size: 18px;
+}
